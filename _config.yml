@@ -1,0 +1,9 @@
+title: "Harvard Online"
+
+theme: jekyll-theme-primer
+repository: harvardonline/harvardonline.github.io
+
+defaults:
+  -
+    values:
+      layout: home
